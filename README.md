@@ -10,12 +10,12 @@ This project analyzes Diwali sales transactions to understand:
 - and which product categories perform best.
 
 The analysis is implemented in the notebook:
-- `/home/runner/work/diwali-sales-analysis/diwali-sales-analysis/Sales_Data_Analysis.ipynb`
+- `Sales_Data_Analysis.ipynb`
 
 ## Dataset
 
 Source file:
-- `/home/runner/work/diwali-sales-analysis/diwali-sales-analysis/sales data new.csv`
+- `sales data new.csv`
 
 Dataset highlights:
 - 11,251 records
@@ -60,17 +60,17 @@ Dataset highlights:
 1. Clone the repository.
 2. Install dependencies:
    ```bash
-   pip install -r /home/runner/work/diwali-sales-analysis/diwali-sales-analysis/requirements.txt
+   pip install -r requirements.txt
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook /home/runner/work/diwali-sales-analysis/diwali-sales-analysis/Sales_Data_Analysis.ipynb
+   jupyter notebook Sales_Data_Analysis.ipynb
    ```
 4. Run cells in order.
 
 ## Repository Structure
 
-- `/home/runner/work/diwali-sales-analysis/diwali-sales-analysis/Sales_Data_Analysis.ipynb` → complete EDA notebook
-- `/home/runner/work/diwali-sales-analysis/diwali-sales-analysis/sales data new.csv` → raw dataset
-- `/home/runner/work/diwali-sales-analysis/diwali-sales-analysis/requirements.txt` → project dependencies
-- `/home/runner/work/diwali-sales-analysis/diwali-sales-analysis/README.md` → project documentation
+- `Sales_Data_Analysis.ipynb` → complete EDA notebook
+- `sales data new.csv` → raw dataset
+- `requirements.txt` → project dependencies
+- `README.md` → project documentation
